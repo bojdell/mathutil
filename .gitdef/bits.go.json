@@ -1,0 +1,8 @@
+{
+  "defs": {
+    "BitLenUint64": "bits.go:85:6",
+    "PopCountUint32": "bits.go:161:6",
+    "PopCountUint64": "bits.go:194:6",
+    "PopCountUintptr": "bits.go:185:6"
+  }
+}

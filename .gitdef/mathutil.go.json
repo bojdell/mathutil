@@ -1,0 +1,31 @@
+{
+  "defs": {
+    "AddUint128_64": "mathutil.go:367:6",
+    "BitLenUintptr": "bits.go:118:6",
+    "Max": "mathutil.go:624:6",
+    "MaxByte": "mathutil.go:714:6",
+    "MaxInt16": "mathutil.go:849:6",
+    "MaxInt32": "mathutil.go:939:6",
+    "MaxInt64": "mathutil.go:1029:6",
+    "MaxInt8": "mathutil.go:759:6",
+    "MaxUint16": "mathutil.go:804:6",
+    "MaxUint32": "mathutil.go:894:6",
+    "MaxUint64": "mathutil.go:984:6",
+    "Min": "mathutil.go:633:6",
+    "MinByte": "mathutil.go:723:6",
+    "MinInt16": "mathutil.go:858:6",
+    "MinInt32": "mathutil.go:948:6",
+    "MinInt64": "mathutil.go:1038:6",
+    "MinInt8": "mathutil.go:768:6",
+    "MinUint16": "mathutil.go:813:6",
+    "MinUint32": "mathutil.go:903:6",
+    "MinUint64": "mathutil.go:993:6",
+    "ModPowBigInt": "mathutil.go:332:6",
+    "ModPowUint32": "mathutil.go:289:6",
+    "ModPowUint64": "mathutil.go:308:6",
+    "PowerizeBigInt": "mathutil.go:408:6",
+    "UMax": "mathutil.go:669:6",
+    "UMin": "mathutil.go:678:6",
+    "modPowBigInt": "mathutil.go:320:6"
+  }
+}
